@@ -1,4 +1,4 @@
-package com.rouble.hashmap;
+package com.alfred.hashmap;
 
 /**
  * 简单实现HashMap

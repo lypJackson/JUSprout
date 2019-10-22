@@ -1,4 +1,4 @@
-package com.rouble.arraylist;
+package com.alfred.arraylist;
 
 import java.util.Arrays;
 

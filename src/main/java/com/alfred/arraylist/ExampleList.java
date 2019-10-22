@@ -1,6 +1,4 @@
-package com.rouble.arraylist;
-
-import org.omg.CORBA.portable.ValueOutputStream;
+package com.alfred.arraylist;
 
 public interface ExampleList<E> {
 

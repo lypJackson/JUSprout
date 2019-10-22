@@ -1,6 +1,6 @@
-package com.rouble.arrylist;
+package com.alfred.arrylist;
 
-import com.rouble.arraylist.ExampleArrayList;
+import com.alfred.arraylist.ExampleArrayList;
 
 /**
  * ArrayList测试

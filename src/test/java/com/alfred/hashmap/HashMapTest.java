@@ -1,4 +1,4 @@
-package com.rouble.hashmap;
+package com.alfred.hashmap;
 
 public class HashMapTest {
 
